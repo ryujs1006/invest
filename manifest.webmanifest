@@ -1,0 +1,19 @@
+{
+  "name": "ASSET RADAR - Global Asset Rotation",
+  "short_name": "ASSET RADAR",
+  "description": "글로벌 자산 순환매 및 선행 매집 모니터링",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080e19",
+  "theme_color": "#0b1220",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
